@@ -15,9 +15,7 @@ Nos destacamos por ofrecer cursos como regalos y experiencias únicas. Permitimo
 
 4. Experiencias interactivas: Además de los cursos tradicionales, Cursodoo ofrecerá experiencias interactivas, como talleres en línea, sesiones de preguntas y respuestas en vivo con expertos y proyectos prácticos para fomentar el aprendizaje práctico.
 
-5. Nuestro sitio web cuenta con un carrito de compras totalmente funcional que permite a los usuarios añadir productos seleccionados.
-
-6. Las empresas tienen la posibilidad de establecer una comunicación directa con nosotros para contratar nuestros servicios y aprovechar nuestra plataforma como un canal efectivo de comercialización.
+5. Las empresas tienen la posibilidad de establecer una comunicación directa con nosotros para contratar nuestros servicios y aprovechar nuestra plataforma como un canal efectivo de comercialización.
    
 ## 💻 Tecnologías utilizadas
 
