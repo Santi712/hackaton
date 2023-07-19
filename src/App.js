@@ -1,6 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
+//Añadido Pablo -- productcard
+import Productcard from './components/productcard/Productcard';
+import  "./components/productcard/Productcard.css"
+
 function App() {
   return (
     <div className="App">
@@ -17,7 +21,12 @@ function App() {
         >
           Learn React
         </a>
+        {/* Añadido Pablo -- productcard */}
+      <Productcard />
       </header>
+      
+
+
     </div>
   );
 }
