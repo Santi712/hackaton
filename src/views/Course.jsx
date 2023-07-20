@@ -1,11 +1,26 @@
-import ProductDetail from '../components/productDetail2/productDetail'
+import ProductDetail from '../components/productDetail2/productDetail';
+import { Link } from "react-router-dom";
+import './course.css';
 
 
 export default function Course({courseData}) {
     return(
+        <>
+            <Link to="/">
+                <button className='returnButton'>Volver</button>
+            </Link>
         
-        /*<h1>{courseData.title}</h1>*/
-
-        <ProductDetail photoUrl = {courseData.photo} level={courseData.level} title = {courseData.title} shortDescription = {courseData.shortDescription} price = {courseData.price} discountPrice ={courseData.discountPrice} position={courseData.owner.position} name= {courseData.owner.name} experience={courseData.experience}/>
-    )
+            <ProductDetail 
+                photoUrl = {courseData.photo} 
+                level={courseData.level} 
+                title = {courseData.title} 
+                shortDescription = {courseData.shortDescription} 
+                price = {courseData.price} 
+                discountPrice ={courseData.discountPrice} 
+                position={courseData.owner.position} 
+                name= {courseData.owner.name} 
+                experience={courseData.experience}
+                ownerPic={courseData.owner.profilePic}/>
+        </> 
+   )
 }
