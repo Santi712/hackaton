@@ -13,7 +13,7 @@ const ProductDetail = (props) =>
                     <button className = "level-tag">{props.level}</button>
                    <div className = "texto-cursos">
                 <h3>{props.title}</h3>                   
-                <p>{props.shortDescription}</p>
+                <p className= "short-description">{props.shortDescription}</p>
                 
                     <h4 className = "discounted-price">{props.price}</h4>
                     <h3 className = "price">{props.discountPrice}</h3>
@@ -26,7 +26,7 @@ const ProductDetail = (props) =>
                     </div>
                     </div>
     <div className = "experience-text">
-<h4>¿Que incluye la experiencia?</h4>
+<h4 className = "titulo-experiencia">¿Que incluye la experiencia?</h4>
 <h5 className= "experience-description">{props.experience}</h5>
 </div>
             <button className = "shoppingcart-button">Añadir al carrito</button>
