@@ -1,6 +1,7 @@
 import dummyData from '../context/dummy-data.json';
 import Productcard from '../components/productcard/Productcard';
 import Navbar from '../components/Header/Navbar';
+import Footer from '../components/Footer/Footer';
 
 
 export default function Home() {
@@ -18,8 +19,10 @@ export default function Home() {
                         title={course.title}
                         price={course.price} >
                     </Productcard>
+                    
                 )
-            })}
+            } )}
+            <Footer />
         </>
     )
 }
