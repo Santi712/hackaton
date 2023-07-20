@@ -1,0 +1,92 @@
+footer{
+	display: inline-flex;
+  	flex-wrap: nowrap;
+	width: 100%;
+	background-color: rgb(184, 184, 184);
+	text-align: center;
+}
+footer h2{
+	font-size: 1.5em;
+}
+footer p{
+	text-emphasis: center;
+	padding: 50px;
+}
+footer a{
+	color: black;
+    text-decoration: none;
+	font-size: medium;
+}
+footer div{
+	width: 33%;
+	margin: 15px;
+	padding: 15px;
+}
+footer ul{
+	list-style-type: none;
+}
+footer li{
+	margin: 10px;
+    font-size: 1.1em;
+}
+footer div input{
+	padding: 2px;
+	margin-top: 5px;
+    margin-bottom: -2px;
+	font-size: 1.5em;
+	width: 200px;
+    height: 30px;
+    background-color: aliceblue;
+}
+footer button{
+	background-color:#df6c00;
+	color: white;
+	padding: 2px;
+	margin-top: 10px;
+	font-size: 1.5em;
+	width: 200px;
+	border: none;
+    border-radius: 10px;
+}
+.last{
+	text-align: center;
+}
+
+.color{
+	color: rgb(66, 61, 61);
+	display: flex;
+  	flex-wrap: wrap;
+	justify-content: space-between;
+	border-top: 1px solid #202020;
+	font-size: 1em;
+}
+
+/* ajustes de la zona de copyright y grupo de creación por SANTI */
+.color div{
+    color: #222222;
+    text-align: justify;
+    margin: 10px;
+    margin-left: 10%;
+}
+/* fin pie de página*/
+
+
+
+@media only screen and (max-width: 900px) {
+    footer{
+        display: block;
+        padding: 1px;
+    }
+    footer div{
+        width: auto;
+    }
+    .color div{
+        margin: 5px 10px;
+        padding: 5px 10px;
+    }
+    .last{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
