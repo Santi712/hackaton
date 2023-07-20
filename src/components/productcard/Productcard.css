@@ -57,6 +57,7 @@ justify-content: flex-end;
 }
 
 .container-price p{
+    margin-bottom: 10px;
     text-align: center;
     color: black;
     font-size: 34px;

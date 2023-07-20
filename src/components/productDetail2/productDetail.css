@@ -2,35 +2,41 @@
 
 .productDetail-container {
     display: flex;
-    gap: 2rem;
     background-color: white;
-    width: 100vw;
-    height: 100vh;
+    width: 90vw;
     font-family: 'Inter', sans-serif;
     border: none;
     color: black;
     text-align: left;
     padding: 0 5vw;
-
 }
 
 .texto-cursos, .experience-text{
     padding: 2rem 0;
-
 }
-h2{
-    font-weight: bold;
-    display: flex;
-}
-
 
 .productDetail-courseCard{
+    display: flex;
+    flex-direction: column;
     background-color: white;
     border: none;
-    width: 90%;
-    /*height: 90vh;*/
+    width: 100%;
 }
 
+@media screen and (min-width:769px){
+    .leftContainer{
+        width: 50%;
+    }
+    .rightContainer{
+        width: 50%;
+        padding: 20px;
+    }
+    .productDetail-courseCard{
+        flex-direction: row;
+
+    }
+    
+}
 
 .productDetail-textContainer{
     background-color: white;
@@ -50,8 +56,8 @@ h2{
 
 .courseLogoImage{
     background-color: white;
-border-radius: 6px;
-    width: 90vw;
+    border-radius: 6px;
+    width: 100%;
     /*height: 25vh;*/
     margin-top: 1rem;
 }
@@ -63,13 +69,13 @@ border-radius: 6px;
 
 .level-tag{
     background-color: #0ACE82;
-width: 24vw;
-height:2vh;
-border:none;
-border-radius:12px;
-color:white;
-font-size: 10px;
-font-weight: bold;
+    width: 24vw;
+    height:2vh;
+    border:none;
+    border-radius:12px;
+    color:white;
+    font-size: 10px;
+    font-weight: bold;
 }
 
 .short-description{
@@ -88,8 +94,10 @@ font-weight: bold;
     height:40px;
     background-color: lightgrey ;
     border-radius: 50%;
-    background-image: url("https://img-b.udemycdn.com/user/200_H/83889900_0a44.jpg");
-    background-size: contain;
+}
+.round-photo img{
+    width: 100%;
+    border-radius: 50%;
 }
 .discounted-price{
     text-decoration: line-through;
@@ -114,7 +122,7 @@ font-weight: bold;
     color: white;
     font-weight: bold;
     font-size: medium;
-    width:90vw;
+    width:90%;
     height:5vh;
 }
 

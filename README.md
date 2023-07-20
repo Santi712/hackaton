@@ -17,6 +17,19 @@ Nos destacamos por ofrecer cursos como regalos y experiencias únicas. Permitimo
 
 5. Las empresas tienen la posibilidad de establecer una comunicación directa con nosotros para contratar nuestros servicios y aprovechar nuestra plataforma como un canal efectivo de comercialización.
    
+## 💻 Instalación
+
+Clona el repositorio del proyecto en tu computadora local usando git clone <url-del-repositorio> en la línea de comandos.
+Accede a la carpeta del proyecto usando cd <nombre-del-proyecto>.
+Instala todas las dependencias del proyecto utilizando:
+ - npm install
+ - npm i react-icon --save
+Ejecuta el servidor de desarrollo con npm start.
+Abre tu navegador web y ve a http://localhost:3000 para ver la aplicación en funcionamiento.
+
+Nota: El puerto 3000 puede cambiar si ya está en uso, en ese caso, aparecerá en la consola el nuevo puerto utilizado.
+
+
 ## 💻 Tecnologías utilizadas
 
 - HTML5
