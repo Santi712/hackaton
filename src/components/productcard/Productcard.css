@@ -51,6 +51,7 @@ height: 426px;
  font-weight: bolder;
 }
 
+
 .container-price-buy{
     display: flex;
     align-items: center;
@@ -58,7 +59,7 @@ height: 426px;
 
 .container-price{
     width: 30%;
-
+    margin-top: 10px;
 }
 
 .container-price p{
@@ -67,6 +68,7 @@ height: 426px;
     color: black;
     font-size: 34px;
     font-weight: bolder;
+    padding: 10px 0;
 }
 
 .container-buy{
@@ -79,6 +81,9 @@ height: 426px;
     justify-content: center;
     padding: 10px;
     margin-right: 11px;
+}
+.container-buy:hover{
+    background-color: #5e4dc6;
 }
 
 .container-buy img{
@@ -196,7 +201,7 @@ height: 426px;
     }
 
     .container-text p {
-        font-size: 14px;
+        font-size: 20px;
         margin-top: 7px;
         height: 31px;
         

@@ -17,8 +17,8 @@ const ProductDetail = (props) =>
                         <h3>{props.title}</h3>                   
                         <p className= "short-description">{props.shortDescription}</p>
                     
-                        <h4 className = "discounted-price">{props.price}</h4>
-                        <h3 className = "price">{props.discountPrice}</h3>
+                        <h4 className = "discounted-price">{props.price}€</h4>
+                        <h3 className = "price">{props.discountPrice}€</h3>
                     </div>
                     <div className = "teacher-info">
                         <div className = "round-photo"><img src={props.ownerPic} alt="" /></div>
