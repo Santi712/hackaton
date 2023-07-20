@@ -2,6 +2,7 @@ import { useParams } from 'react-router-dom'
 import { useContext } from "react";
 import { DataContext } from '../context/DataContext';
 
+
 export default function Course() {
     const {id} = useParams();
     console.log("funciona porfissss");
