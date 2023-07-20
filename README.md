@@ -1,70 +1,43 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📣 Descripción del proyecto 
 
-## Available Scripts
+Cursodoo es una marketplace especializada en la venta de cursos de tecnología. Nuestro objetivo principal es ayudar a las personas, sin importar su nivel de conocimiento, a adquirir habilidades en el ámbito tecnológico, desde un nivel básico hasta niveles más avanzados.
 
-In the project directory, you can run:
+Nos destacamos por ofrecer cursos como regalos y experiencias únicas. Permitimos que familiares y amigos brinden a sus seres queridos la oportunidad de adentrarse en el mundo de la tecnología, ampliar sus conocimientos o consolidar las habilidades previas.
 
-### `npm start`
+## 🛠️ Funcionalidades del proyecto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Búsqueda y exploración de cursos: Los usuarios podrán buscar cursos por categoría, nivel de dificultad o palabras clave. Además, podrán explorar el catálogo completo de cursos para descubrir nuevas oportunidades de aprendizaje.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Compra de cursos como regalos: Cursodoo permite a los usuarios comprar cursos como regalos para amigos, familiares o colegas. Los compradores podrán personalizar los detalles del regalo y enviarlo directamente al destinatario, quien podrá canjearlo y acceder al curso.
 
-### `npm test`
+3. Detalles del curso: Cada curso contará con una página de detalles que proporcionará información completa sobre el contenido, el temario, la duración y los requisitos del curso. Los usuarios podrán obtener una visión clara de lo que aprenderán y cómo les beneficiará.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4. Experiencias interactivas: Además de los cursos tradicionales, Cursodoo ofrecerá experiencias interactivas, como talleres en línea, sesiones de preguntas y respuestas en vivo con expertos y proyectos prácticos para fomentar el aprendizaje práctico.
 
-### `npm run build`
+5. Las empresas tienen la posibilidad de establecer una comunicación directa con nosotros para contratar nuestros servicios y aprovechar nuestra plataforma como un canal efectivo de comercialización.
+   
+## 💻 Tecnologías utilizadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- HTML5
+- CSS
+- React
+- Js
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ⚙ Herramientas utilizadas
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Figma
+- Trello
+- VSCode
 
-### `npm run eject`
+## 👥 Personas Contribuyentes
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- filgadri@gmail.com
+- bry13041960@gmail.com
+- sylviall81@gmail.com
+- dosdedoce@gmail.com
+- edcarrasmar@gmail.com
+- pablosebas87@gmail.com
+- rocioalonso.dev@gmail.com
+- roxanaradutza@gmail.com
+- digital.champeta@gmail.com
