@@ -20,10 +20,15 @@ const ProductDetail = (props) =>
 
 <div className = "teacher-info">
     <div className = "round-photo"></div>
-                    <h4>{props.name}</h4>
-                    <h5>{props.position}</h5>
+                    <h4 className = "teacher-name">{props.name}</h4>
+                    <h5 classNname = "teacher-position">{props.position}</h5>
                     </div>
             </div>
+
+<h4>¿Que incluye la experiencia?</h4>
+<h5>Lorem Ipsum dolor sit amet Lorem ipsum dolor sit amet.</h5>
+
+            <button className = "cart-button">Añadir al carrito</button>
     
         </div>
     )}

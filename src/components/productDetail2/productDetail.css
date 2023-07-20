@@ -64,11 +64,33 @@ font-weight: bold;
 
 
 .round-photo {
-    width: 9px;
-    height:9px;
+    width: 40px;
+    height:40px;
     background-color: lightgrey ;
+    border-radius: 50%;
+    background-image: url("https://img-b.udemycdn.com/user/200_H/83889900_0a44.jpg");
+    background-size: contain;
 }
 .discounted-price{
     text-decoration: line-through;
     color: grey;
+}
+
+
+.teacher-info{
+    display: flex;
+}
+.teacher-name{
+    color:black;
+}
+.teacher-position{
+    color:grey;
+}
+
+.cart-button{
+    background-color: #4A3D9F;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
 }
