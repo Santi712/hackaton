@@ -6,7 +6,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
-    z-index: 10;
+    z-index: 200;
 }
 
 #logo {
@@ -14,7 +14,8 @@
     margin-top: 70px;
 
 } 
-/Efecto navbar/
+
+
 .header-bg {
     background-color: rgba(0,0,0, .85);
     transition: .5s;
