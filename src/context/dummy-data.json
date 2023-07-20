@@ -3,14 +3,14 @@
         {
             "id":1,
             "title":"Diseño UX/ UI + Figma 2023",
-            "short-description":"Aprende, conoce y aplica técnicas de User Experience Design y Design Thinking - Curso UX UI Design + Diseño Web y Mobile.",
+            "shortDescription":"Aprende, conoce y aplica técnicas de User Experience Design y Design Thinking - Curso UX UI Design + Diseño Web y Mobile.",
             "owner":{
                 "name": "Javier Cañas",
                 "position": "Sr. Product Designer",
-                "profile-pic": "https://img-b.udemycdn.com/user/200_H/37526024_0001_2.jpg"
+                "profilePic": "https://img-b.udemycdn.com/user/200_H/37526024_0001_2.jpg"
             },
             "price":79.99,
-            "discount-price": 59.99,
+            "discountPrice": 59.99,
             "experience":[
                 "User flows y arquitectura de la información.",
                 "Prototipado en baja, media y alta fidelidad.",
@@ -25,14 +25,14 @@
         {
             "id":2,
             "title": "Blender & Substance: Modelado y texturizado para videojuegos",
-            "short-description":"Aprende todo el proceso de creación de modelos para videojuegos y crea CINCO ASSETS usando Blender y Substance Painter.",
+            "shortDescription":"Aprende todo el proceso de creación de modelos para videojuegos y crea CINCO ASSETS usando Blender y Substance Painter.",
             "owner":{
                 "name": "Jose Moreno",
                 "position": "Digital Artist",
-                "profile-pic": "https://img-b.udemycdn.com/user/200_H/37119700_6398_2.jpg"
+                "profilePic": "https://img-b.udemycdn.com/user/200_H/37119700_6398_2.jpg"
             },
             "price":99.99,
-            "discount-price": 84.99,
+            "discountPrice": 84.99,
             "experience":[
                 "Fundamentos de Blender 2.8x y sus principales herramientas de modelado.",
                 "Optimización de modelos para videojuegos.",
@@ -47,14 +47,14 @@
         {
             "id":3,
             "title": "Guía completa sobre el color aplicado al diseño de proyecto",
-            "short-description":"Atrévete a crear paletas de colores como todo un PRO del diseño gráfico.",
+            "shortDescription":"Atrévete a crear paletas de colores como todo un PRO del diseño gráfico.",
             "owner":{
                 "name": "Maria Hurtado",
                 "position": "Licenciado en diseño gráfico",
-                "profile-pic": "https://img-b.udemycdn.com/user/200_H/83889900_0a44.jpg"
+                "profilePic": "https://img-b.udemycdn.com/user/200_H/83889900_0a44.jpg"
             },
             "price":49.99,
-            "discount-price": 49.99,
+            "discountPrice": 49.99,
             "experience":[
                 "Saber sobre la teoría del color en una forma práctica y divertida.",
                 "Crear paletas de colores creativas para tus diseños.",
@@ -68,14 +68,14 @@
         {
             "id":4,
             "title": "Domina SCRUM con JIRA",
-            "short-description":"Domina la herramienta JIRA y aprende a adaptarte al cambio para maximizar el valor aportado con tus proyectos Agile.",
+            "shortDescription":"Domina la herramienta JIRA y aprende a adaptarte al cambio para maximizar el valor aportado con tus proyectos Agile.",
             "owner":{
                 "name": "Ivan Pinar Domínguez",
                 "position": "Ingeniero Telecomunicación",
-                "profile-pic": "https://img-b.udemycdn.com/user/200_H/51484122_17e0.jpg"
+                "profilePic": "https://img-b.udemycdn.com/user/200_H/51484122_17e0.jpg"
             },
             "price":149.99,
-            "discount-price": 139.99,
+            "discountPrice": 139.99,
             "experience":[
                 "En este programa aprenderá los conceptos de las metodologías ágiles y el enfoque SCRUM en detalle.",
                 "Administrar roles y permisos utilizando JIRA.",
@@ -89,14 +89,14 @@
         {
             "id":5,
             "title": "Aprende Hacking Ético con CTFs (Capture The Flag)",
-            "short-description":"Aprende Hacking Ético con CTFs. Hackea maquinas como lo hace un Hacker Etico.",
+            "shortDescription":"Aprende Hacking Ético con CTFs. Hackea maquinas como lo hace un Hacker Etico.",
             "owner":{
                 "name": "Thiago Araujo",
                 "position": "Hacker Etico - Programador",
-                "profile-pic": "https://img-b.udemycdn.com/user/200_H/121229734_9323_5.jpg"
+                "profilePic": "https://img-b.udemycdn.com/user/200_H/121229734_9323_5.jpg"
             },
             "price":19.99,
-            "discount-price": 19.99,
+            "discountPrice": 19.99,
             "experience":[
                 "Hacking Etico y Ciberseguridad.",
                 "Explotacion de maquinas Windows.",
@@ -112,14 +112,14 @@
         {
             "id":6,
             "title": "Eureka! Zientzia Museoa. Planetario Inmersivo",
-            "short-description":"Planetario Azul. ¡Comienza una nueva aventura!",
+            "shortDescription":"Planetario Azul. ¡Comienza una nueva aventura!",
             "owner":{
                 "name": "Eureka!",
                 "position": "Zientzia Museoa Obra Social de kutxa",
-                "profile-pic": "https://www.atrapaelnorte.com/wp-content/uploads/2020/07/000-museo-de-la-ciencia-euskadi-pais-vasco-donostia-ocio-y-cultura.jpg"
+                "profilePic": "https://www.atrapaelnorte.com/wp-content/uploads/2020/07/000-museo-de-la-ciencia-euskadi-pais-vasco-donostia-ocio-y-cultura.jpg"
             },
             "price":19.99,
-            "discount-price": 2.50,
+            "discountPrice": 2.50,
             "experience":[
                 "Sesiones de cine inmersivo orientadas especialmente a personas con diversidad funcional.",
                 "Se trata de construir un entorno amigable donde sea posible expresar las emociones o moverse por la sala con libertad.",
