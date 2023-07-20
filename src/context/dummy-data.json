@@ -20,7 +20,7 @@
             "format": "Online",
             "level": "Principiante",
             "audience":"Este curso es ideal y está dirigido para programadores, diseñadores, emprendedores, comunicadores, sociólogos, psicólogos, analistas y todas las personas con ganas de aprender sobre el proceso de creación de productos y servicios desde cero.",
-            "photo-url":"https://uxdivi.b-cdn.net/wp-content/uploads/2022/04/BL-Curso-de-introduccio%CC%81n-a-Figma-y-el-disen%CC%83o-UI.png"
+            "photo":"https://uxdivi.b-cdn.net/wp-content/uploads/2022/04/BL-Curso-de-introduccio%CC%81n-a-Figma-y-el-disen%CC%83o-UI.png"
         },
         {
             "id":2,
@@ -42,7 +42,7 @@
             "format": "Online",
             "level": "Intermedio",
             "audience":"Estudiantes de 3D principiantes o intermedios que quieran lograr resultados profesionales y mejorar su workflow en la creación de modelos para videojuegos.",
-            "photo-url":"https://img-b.udemycdn.com/course/750x422/2602396_c833_4.jpg"
+            "photo":"https://img-b.udemycdn.com/course/750x422/2602396_c833_4.jpg"
         },
         {
             "id":3,
@@ -63,7 +63,7 @@
             "format": "Online",
             "level": "Principiante",
             "audience":"Publico en general.",
-            "photo-url":"https://todosobrecolores.com/wp-content/uploads/2022/09/Teoria-del-color-aplicada-a-proyectos-online.jpg"
+            "photo":"https://todosobrecolores.com/wp-content/uploads/2022/09/Teoria-del-color-aplicada-a-proyectos-online.jpg"
         },
         {
             "id":4,
@@ -84,7 +84,7 @@
             "format": "Online",
             "level": "Principiante",
             "audience":"Interesados en aprender los enfoques ágiles cada vez más utilizados en todos los sectores.",
-            "photo-url":"https://megapractical.com/wp-content/uploads/2021/06/jira-training-120620.png"
+            "photo":"https://megapractical.com/wp-content/uploads/2021/06/jira-training-120620.png"
         },
         {
             "id":5,
@@ -107,7 +107,7 @@
             "format": "Online",
             "level": "Principiante",
             "audience":"Gente que quiera aprender como trabajan los Hackers.",
-            "photo-url":"https://i.ytimg.com/vi/S_Scn9GNuTA/maxresdefault.jpg"
+            "photo":"https://i.ytimg.com/vi/S_Scn9GNuTA/maxresdefault.jpg"
         },
         {
             "id":6,
@@ -128,7 +128,7 @@
             "format": "Presencial. Lugar: Eureka! Zientzia Museoa.",
             "level": "Todos los públicos",
             "audience":"Sesiones de cine inmersivo orientadas especialmente a personas con diversidad funcional.",
-            "photo-url":"https://www.kutxa.eus/images/ciencia_educacion/Eureka/Eureka_PlanetarioUrdina.jpg"
+            "photo":"https://www.kutxa.eus/images/ciencia_educacion/Eureka/Eureka_PlanetarioUrdina.jpg"
         }
 
     ]
