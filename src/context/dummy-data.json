@@ -1,0 +1,135 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "title":"Diseño UX/ UI + Figma 2023",
+            "shortDescription":"Aprende, conoce y aplica técnicas de User Experience Design y Design Thinking - Curso UX UI Design + Diseño Web y Mobile.",
+            "owner":{
+                "name": "Javier Cañas",
+                "position": "Sr. Product Designer",
+                "profilePic": "https://img-b.udemycdn.com/user/200_H/37526024_0001_2.jpg"
+            },
+            "price":79.99,
+            "discountPrice": 59.99,
+            "experience":[
+                "User flows y arquitectura de la información.",
+                "Prototipado en baja, media y alta fidelidad.",
+                "Herramientas de medición, Analytics y heatmaps.",
+                "A diseñar una propuesta de valor en base a las necesidades del cliente y el usuario."],
+            "category": ["Design","UX","UI","Diseño","Figma"],
+            "format": "Online",
+            "level": "Principiante",
+            "audience":"Este curso es ideal y está dirigido para programadores, diseñadores, emprendedores, comunicadores, sociólogos, psicólogos, analistas y todas las personas con ganas de aprender sobre el proceso de creación de productos y servicios desde cero.",
+            "photo":"https://uxdivi.b-cdn.net/wp-content/uploads/2022/04/BL-Curso-de-introduccio%CC%81n-a-Figma-y-el-disen%CC%83o-UI.png"
+        },
+        {
+            "id":2,
+            "title": "Blender & Substance: Modelado y texturizado para videojuegos",
+            "shortDescription":"Aprende todo el proceso de creación de modelos para videojuegos y crea CINCO ASSETS usando Blender y Substance Painter.",
+            "owner":{
+                "name": "Jose Moreno",
+                "position": "Digital Artist",
+                "profilePic": "https://img-b.udemycdn.com/user/200_H/37119700_6398_2.jpg"
+            },
+            "price":99.99,
+            "discountPrice": 84.99,
+            "experience":[
+                "Fundamentos de Blender 2.8x y sus principales herramientas de modelado.",
+                "Optimización de modelos para videojuegos.",
+                "Renderizado en tiempo real en Blender Eevee y Cycles.",
+                "Despliegue UV para videojuegos."],
+            "category": ["Design","3D","3D Animation","Diseño","Blender"],
+            "format": "Online",
+            "level": "Intermedio",
+            "audience":"Estudiantes de 3D principiantes o intermedios que quieran lograr resultados profesionales y mejorar su workflow en la creación de modelos para videojuegos.",
+            "photo":"https://img-b.udemycdn.com/course/750x422/2602396_c833_4.jpg"
+        },
+        {
+            "id":3,
+            "title": "Guía completa sobre el color aplicado al diseño de proyecto",
+            "shortDescription":"Atrévete a crear paletas de colores como todo un PRO del diseño gráfico.",
+            "owner":{
+                "name": "Maria Hurtado",
+                "position": "Licenciado en diseño gráfico",
+                "profilePic": "https://img-b.udemycdn.com/user/200_H/83889900_0a44.jpg"
+            },
+            "price":49.99,
+            "discountPrice": 49.99,
+            "experience":[
+                "Saber sobre la teoría del color en una forma práctica y divertida.",
+                "Crear paletas de colores creativas para tus diseños.",
+                "Crear proyectos de diseño usando el color eficazmente."],
+            "category": ["Design","Diseño","Diseño Gráfico"],
+            "format": "Online",
+            "level": "Principiante",
+            "audience":"Publico en general.",
+            "photo":"https://todosobrecolores.com/wp-content/uploads/2022/09/Teoria-del-color-aplicada-a-proyectos-online.jpg"
+        },
+        {
+            "id":4,
+            "title": "Domina SCRUM con JIRA",
+            "shortDescription":"Domina la herramienta JIRA y aprende a adaptarte al cambio para maximizar el valor aportado con tus proyectos Agile.",
+            "owner":{
+                "name": "Ivan Pinar Domínguez",
+                "position": "Ingeniero Telecomunicación",
+                "profilePic": "https://img-b.udemycdn.com/user/200_H/51484122_17e0.jpg"
+            },
+            "price":149.99,
+            "discountPrice": 139.99,
+            "experience":[
+                "En este programa aprenderá los conceptos de las metodologías ágiles y el enfoque SCRUM en detalle.",
+                "Administrar roles y permisos utilizando JIRA.",
+                "Será capaz de gestionar proyectos con JIRA (creación de backlog, gestión del Sprint, control de la evolución del proyecto ágil)."],
+            "category": ["Organización Proyectos","Jira","Proyectos"],
+            "format": "Online",
+            "level": "Principiante",
+            "audience":"Interesados en aprender los enfoques ágiles cada vez más utilizados en todos los sectores.",
+            "photo":"https://megapractical.com/wp-content/uploads/2021/06/jira-training-120620.png"
+        },
+        {
+            "id":5,
+            "title": "Aprende Hacking Ético con CTFs (Capture The Flag)",
+            "shortDescription":"Aprende Hacking Ético con CTFs. Hackea maquinas como lo hace un Hacker Etico.",
+            "owner":{
+                "name": "Thiago Araujo",
+                "position": "Hacker Etico - Programador",
+                "profilePic": "https://img-b.udemycdn.com/user/200_H/121229734_9323_5.jpg"
+            },
+            "price":19.99,
+            "discountPrice": 19.99,
+            "experience":[
+                "Hacking Etico y Ciberseguridad.",
+                "Explotacion de maquinas Windows.",
+                "Explotacion de vulnerabilidades Web.",
+                "Penetration Testing.",
+                "Explotacion de maquinas Linux."],
+            "category": ["Hacking Ético","Software","IT","Seguridad","Security"],
+            "format": "Online",
+            "level": "Principiante",
+            "audience":"Gente que quiera aprender como trabajan los Hackers.",
+            "photo":"https://i.ytimg.com/vi/S_Scn9GNuTA/maxresdefault.jpg"
+        },
+        {
+            "id":6,
+            "title": "Eureka! Zientzia Museoa. Planetario Inmersivo",
+            "shortDescription":"Planetario Azul. ¡Comienza una nueva aventura!",
+            "owner":{
+                "name": "Eureka!",
+                "position": "Zientzia Museoa Obra Social de kutxa",
+                "profilePic": "https://www.atrapaelnorte.com/wp-content/uploads/2020/07/000-museo-de-la-ciencia-euskadi-pais-vasco-donostia-ocio-y-cultura.jpg"
+            },
+            "price":19.99,
+            "discountPrice": 2.50,
+            "experience":[
+                "Sesiones de cine inmersivo orientadas especialmente a personas con diversidad funcional.",
+                "Se trata de construir un entorno amigable donde sea posible expresar las emociones o moverse por la sala con libertad.",
+                "Estas adaptaciones consistirán en la disminución del volumen o el mantenimiento de alguna luz encendida para que los espectadores puedan sentirse más seguros."],
+            "category": ["Experiencia Inmersiva","VR","Planetario","Astronomía"],
+            "format": "Presencial. Lugar: Eureka! Zientzia Museoa.",
+            "level": "Todos los públicos",
+            "audience":"Sesiones de cine inmersivo orientadas especialmente a personas con diversidad funcional.",
+            "photo":"https://www.kutxa.eus/images/ciencia_educacion/Eureka/Eureka_PlanetarioUrdina.jpg"
+        }
+
+    ]
+}

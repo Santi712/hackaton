@@ -1,14 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import { Router } from './config/Router';
 
 function App() {
+
+
   return (
-    <div className="App">
+   /* <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+
+        <ProductDetail photoUrl ={image} title = "Curso de Figma" experience = "User flows y arquitectura de la información." level = "PRINCIPIANTE" name= "Elsa Pato" position = "Diseñadora ux/ui" shortDescription = "Lorem ipsum dolor sit amet, consectetur sed do eiusmod tempor." price = "35,99€" discountPrice = "25,99€" />
+      
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -18,8 +20,12 @@ function App() {
           Learn React
         </a>
       </header>
-    </div>
+
+
+    </div>*/
+    <Router/>
   );
 }
+
 
 export default App;
