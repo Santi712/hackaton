@@ -21,6 +21,7 @@ const Navbar = () => {
     return (
         <div className={color ? 'header header-bg' : 'header'}>
             <ul className={click ? 'nav-menu active' : 'nav-menu'}>
+                <img src='https://cdn.glitch.global/4828fb69-43b2-4866-8668-341e7a65ecbd/logo_CursoDoo.svg?v=1689855255133'></img>
                 <li>
                     <Link to='/'>Home</Link>
                 </li>
