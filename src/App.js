@@ -1,20 +1,11 @@
-import React from 'react'
-import logo from './logo.svg';
-import image from './assets/image/imagen-curso1.png'
 import './App.css';
-/*import ProductDetail from './components/ProductDetail/ProductDetail';
-import Card from './components/cardPrueba/cardPrueba'
-import data from './assets/dummy-data.json'*/
-//import IMAGE from './assets/image/imagen-curso1.png'
-import ProductDetail from './components/productDetail2/productDetail'
-
-
+import { Router } from './config/Router';
 
 function App() {
 
 
   return (
-    <div className="App">
+   /* <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
 
@@ -31,8 +22,10 @@ function App() {
       </header>
 
 
-    </div>
+    </div>*/
+    <Router/>
   );
 }
+
 
 export default App;
