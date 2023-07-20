@@ -1,0 +1,22 @@
+
+background-color: white;
+width: 98vw;
+height: 20vh;
+
+}
+
+.courseLogoImage{
+background-color: white;
+border-radius: 6px;
+width: 35vw;
+height: 16vh;
+}
+
+.level-tag {
+width: 30vw;
+background-color: #0ACE82 ;
+border-radius: 15px;
+border: none;
+font-size: 9px;
+
+}
