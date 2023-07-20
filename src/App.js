@@ -18,7 +18,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
 
-        <ProductDetail photoUrl ={image} title = "Curso de Figma" level = "PRINCIPIANTE" name= "Elsa Pato" position = "Diseñadora ux/ui" shortDescription = "Lorem ipsum dolor sit amet, consectetur sed do eiusmod tempor." price = "35,99€" discountPrice = "25,99€" />
+        <ProductDetail photoUrl ={image} title = "Curso de Figma" experience = "User flows y arquitectura de la información." level = "PRINCIPIANTE" name= "Elsa Pato" position = "Diseñadora ux/ui" shortDescription = "Lorem ipsum dolor sit amet, consectetur sed do eiusmod tempor." price = "35,99€" discountPrice = "25,99€" />
       
         <a
           className="App-link"
@@ -29,8 +29,6 @@ function App() {
           Learn React
         </a>
       </header>
-
-
 
 
     </div>

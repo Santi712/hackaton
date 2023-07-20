@@ -27,7 +27,7 @@ const ProductDetail = (props) =>
                     </div>
     <div className = "experience-text">
 <h4>¿Que incluye la experiencia?</h4>
-<h5 className= "experience-description">Lorem Ipsum dolor sit amet Lorem ipsum dolor sit amet.</h5>
+<h5 className= "experience-description">{props.experience}</h5>
 </div>
             <button className = "shoppingcart-button">Añadir al carrito</button>
            
