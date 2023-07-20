@@ -12,6 +12,7 @@ export default function Home() {
             {courseData && courseData.map((course, index) => {
                 return (
                     <Productcard key={index}
+                        id={course.id}
                         img={course.photo}
                         level={course.level}
                         title={course.title}
