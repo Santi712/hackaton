@@ -10,6 +10,8 @@ export default function Productcard() {
         <div className="container-productcard">
            <div className="container-image">
            <img alt="imagen curso" src={image1}></img>
+           <div className="container-text-level"><p className="level-text">principiante</p></div>
+           
         </div>
         <div className="container-text"><p>Figma paso a paso</p></div>
         <div className="container-price-buy">
