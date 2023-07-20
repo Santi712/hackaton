@@ -1,13 +1,26 @@
-import React from 'react';
-import { Routes, Route } from 'react-router-dom';
-import Home from './Home';
+import Navbar from '../components/Navbar';
+import '/App.css';
 
 function App() {
   return (
-    <Routes>
-      <Route path='/' element={<Home />} />
-    </Routes>
+    <>
+      <Navbar />
+    </>
   );
 }
 
-export default App;
+
+
+// import React from 'react';
+// import './App.css';
+// import NavbarContainer from './Navbar'; // Ajusta la ruta de importación según la ubicación de Navbar.jsx
+
+// function App() {
+//   return (
+//     <>
+//       <NavbarContainer />
+//     </>
+//   );
+// }
+
+// export default App;
