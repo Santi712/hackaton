@@ -1,5 +1,5 @@
 import React from 'react';
-import './ProductDetail.css'
+import './productDetail.css'
 
 
 const ProductDetail = (props) => 

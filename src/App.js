@@ -1,18 +1,25 @@
+import React from 'react'
 import logo from './logo.svg';
+import image from './assets/image/imagen-curso1.png'
 import './App.css';
+/*import ProductDetail from './components/ProductDetail/ProductDetail';
+import Card from './components/cardPrueba/cardPrueba'
+import data from './assets/dummy-data.json'*/
+//import IMAGE from './assets/image/imagen-curso1.png'
+import ProductDetail from './components/productDetail2/productDetail'
 
-//Añadido Pablo -- productcard
-/*  import Productcard from './components/productcard/Productcard';
-import  "./components/productcard/Productcard.css"  */
+
 
 function App() {
+
+
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+
+        <ProductDetail photoUrl ={image} title = "Figma" shortDescription = "Lorem Ipsum" price = "5€" discountPrice = "3€" />
+      
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -21,10 +28,9 @@ function App() {
         >
           Learn React
         </a>
-        {/* Añadido Pablo -- productcard */}
-    {/*    <Productcard /> */}
       </header>
-      
+
+
 
 
     </div>
