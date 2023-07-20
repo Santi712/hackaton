@@ -32,4 +32,3 @@ test('El componente Productcard se renderiza correctamente', () => {
     const imagenPlay = getByAltText('imagen play');
     expect(imagenPlay).toBeInTheDocument();
 });
-
